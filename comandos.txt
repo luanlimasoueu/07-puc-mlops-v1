@@ -25,5 +25,11 @@ git branch
 git status
 
 
-git add Dockerfile comandos.txt environment.yml main.py test_train.py train.py
+git add Dockerfile comandos.txt environment.yml main.py test_train.py train.py requirements.txt
+
+git push --set-upstream origin branch_01
+
+
+git add .github
+
 

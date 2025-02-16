@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Luan%20Lima/Desktop/github/23_puc_mlpos_v1/mlruns/0/70d1e09e727246d2a20d2cc26ea16573/artifacts
+end_time: 1739720836883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70d1e09e727246d2a20d2cc26ea16573
+run_name: experiment_mlops_ead
+run_uuid: 70d1e09e727246d2a20d2cc26ea16573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739720827787
+status: 3
+tags: []
+user_id: Luan Lima
