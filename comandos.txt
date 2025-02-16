@@ -33,3 +33,15 @@ git push --set-upstream origin branch_01
 git add .github
 
 
+
+uvicorn app.main:app --reload
+
+
+docker build -t model_api .
+
+docker run -p 80:80 model_api
+
+docker login 
+
+docker tag model_api luanemersonlima/mlops_api
+
